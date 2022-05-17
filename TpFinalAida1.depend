@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1509215685 source:c:\users\yamil\desktop\trabajos\tpfinalaida1\main.cpp
+	<iostream>
+	"arbol.h"
+	<map>
+	<string>
+
+1509215706 c:\users\yamil\desktop\trabajos\tpfinalaida1\arbol.h
+	<map>
+	<IOSTREAM>
+
